@@ -1,0 +1,63 @@
+html {
+    background-color: dodgerblue;
+}
+
+.container {
+    width: 400px;
+    padding-left: 40px;
+    padding-right: 40px;
+    display:block;
+    margin:auto;   
+}
+
+.logo img {
+    height: 35px;
+    display:block;
+    margin:auto;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.signup {
+    background-color: white;
+    border: 2px;
+    padding: 15px;
+    width: 320px;
+    display:block;
+    margin:auto;
+}
+
+.signup h3 {
+    text-align: center;
+}
+
+.signup fieldset {
+    border-style: none;
+}
+
+.signup input {
+    width: 100%;
+    height: 35px;
+}
+
+.signup button {
+    height: 55px;
+    width: 100%;
+    border: 2px;
+    background-color: mediumseagreen;  
+}
+
+.signup a {
+    color: gray;
+}
+
+.login {
+    color: white;
+    display:block;
+    margin:auto;
+    text-align: center;
+}
+
+.login a {
+    color: white; 
+}
